@@ -2,8 +2,8 @@
 
 ClinicQueue is a small local command-line utility that grows in focused stages.
 
-Current stage: 50
-Latest focus: Document archive behavior
+Current stage: 51
+Latest focus: Add restore behavior notes
 
 ## Goals
 
