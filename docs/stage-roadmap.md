@@ -1,11 +1,10 @@
 # ClinicQueue Stage Roadmap
 
-Current stage: 51
+Current stage: 52
 Target stages: 70
 
 ## Upcoming Focus
 
-- Stage 51: Add restore behavior notes
 - Stage 52: Capture sync boundary notes
 - Stage 53: Add local-first notes
 - Stage 54: Document privacy notes
@@ -13,3 +12,4 @@ Target stages: 70
 - Stage 56: Record dependency notes
 - Stage 57: Add contribution notes
 - Stage 58: Describe roadmap risks
+- Stage 59: Add review checklist
